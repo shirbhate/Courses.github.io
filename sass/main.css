@@ -1,0 +1,216 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+#head {
+  background-color: #3E978B;
+  color: white;
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+}
+
+span {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#containterdual {
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 80%;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e6e2e2;
+  border-width: 1px;
+  -webkit-box-shadow: 0px 2px #dad6d6;
+          box-shadow: 0px 2px #dad6d6;
+  -webkit-transform: translate(0px, -50px);
+          transform: translate(0px, -50px);
+}
+
+#navigation {
+  background-color: #EFF48E;
+  font-size: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#active {
+  background-color: #3E978B;
+  color: white;
+}
+
+#about {
+  padding-left: 50px;
+  width: 100%;
+}
+
+#rectangle {
+  width: 100%;
+  border: 5px solid  #EFF48E;
+  border-radius: 47px 0 0 47px;
+  border-right-style: none;
+}
+
+#instructors {
+  width: 80%;
+  height: 450px;
+  background-color: #EFF48E;
+  border-radius: 0 47px 47px 0;
+  border-left-style: none;
+  position: relative;
+}
+
+#image {
+  padding-left: 150px;
+  width: 600px;
+  height: 500px;
+  -webkit-transform: translate(0px, -90px);
+          transform: translate(0px, -90px);
+}
+
+#testin {
+  padding-left: 80px;
+  padding-right: 50px;
+  padding-top: 25px;
+  width: 100%;
+  position: absolute;
+  top: 10px;
+}
+
+#rectangle2 {
+  width: 30%;
+  height: 30px;
+  background-color: #ffffff;
+  border-left-style: none;
+  position: relative;
+  -webkit-transform: translate(-20px, 0px);
+          transform: translate(-20px, 0px);
+}
+
+#splidelist {
+  background-color: #ffffff;
+  border-radius: 20px;
+  border: 5px solid #D2E603;
+  padding: 20px;
+  width: 95%;
+  -webkit-transform: translate(0px, 90px);
+          transform: translate(0px, 90px);
+}
+
+#splidelist h4 {
+  text-align: center;
+}
+
+#splideimage {
+  padding-left: 10px;
+  -webkit-transform: translate(0px, -130px);
+          transform: translate(0px, -130px);
+}
+
+#card-slider {
+  width: auto;
+  -webkit-transform: translate(0px, -320px);
+          transform: translate(0px, -320px);
+  padding-left: 50px;
+}
+
+#howitworks {
+  padding-left: 70px;
+  padding-right: 70px;
+  width: 100%;
+}
+
+#howitworks svg {
+  -webkit-transform: translate(0px, -80px);
+          transform: translate(0px, -80px);
+}
+
+#courses {
+  background-color: #EFF48E;
+}
+
+#courses h3 {
+  padding-left: 480px;
+  padding-top: 100px;
+}
+
+#courses svg {
+  -webkit-transform: translate(0px, -1425px);
+          transform: translate(0px, -1425px);
+  padding-left: 100px;
+  width: 100%;
+}
+
+#courses h2 {
+  padding-left: 50px;
+  -webkit-transform: translate(0px, -1350px);
+          transform: translate(0px, -1350px);
+}
+
+#imgcourses {
+  -webkit-transform: translate(-250px, -220px);
+          transform: translate(-250px, -220px);
+}
+
+#img1courses {
+  -webkit-transform: translate(-250px, -332px);
+          transform: translate(-250px, -332px);
+}
+
+#coursesrect {
+  width: 331px;
+  height: 54px;
+  background-color: #ffffff;
+  border-left-style: none;
+  -webkit-transform: translate(50px, -1350px);
+          transform: translate(50px, -1350px);
+}
+
+#coursecontent {
+  -webkit-transform: translate(50px, -1350px);
+          transform: translate(50px, -1350px);
+  width: 94.5%;
+}
+
+#faq {
+  background-color: #EFF48E;
+}
+
+#faqcard {
+  border-bottom: 5px solid #EFF48E;
+  background-color: white;
+}
+
+#faqcard h4 {
+  padding-left: 15px;
+}
+
+#faqcardbody {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#footercont {
+  background-color: #2EC1AC;
+  padding-left: 130px;
+}
+
+#footercontent {
+  padding-right: 130px;
+}
+
+#divcont {
+  -webkit-transform: translate(0px, -1230px);
+          transform: translate(0px, -1230px);
+}
+/*# sourceMappingURL=main.css.map */
